@@ -1,3 +1,3 @@
 @echo off
-okikae.exe
+jp-python.exe
 pause
